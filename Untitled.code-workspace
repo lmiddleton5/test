@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "../Glozzom"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Freshers20"
+  }
+}
