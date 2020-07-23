@@ -1666,7 +1666,7 @@ Arrow pointer div end
 */
 
 .heroimg {
-  background-image: url('https://github.com/lmiddleton5/test/blob/master/assets/img/Freshers-2020-Hero-Image-Resized.jpg?raw=true');
+  background-image: url('https://github.com/lmiddleton5/Freshers2020/blob/master/assets/img/Freshers-2020-Hero-Image-Resized.jpg?raw=true');
   background-size: cover;
   background-position: center;
   height: 45em;
@@ -1675,7 +1675,7 @@ Arrow pointer div end
 
 @media screen and (max-width: 600px) {
   .heroimg {
-    background-image: url('https://github.com/lmiddleton5/test/blob/master/assets/img/Freshers-2020-Hero-Image-Resized.jpg?raw=true');
+    background-image: url('https://github.com/lmiddleton5/Freshers2020/blob/master/assets/img/Freshers-2020-Hero-Image-Resized.jpg?raw=true');
 
     background-size: cover;
     height: 25em;
@@ -1687,7 +1687,7 @@ Arrow pointer div end
 
 @media (min-width: 992px) and (max-width: 1200px) {
   .heroimg {
-    background-image: url('https://github.com/lmiddleton5/test/blob/master/assets/img/Freshers-2020-Hero-Image-Resized.jpg?raw=true');
+    background-image: url('https://github.com/lmiddleton5/Freshers2020/blob/master/assets/img/Freshers-2020-Hero-Image-Resized.jpg?raw=true');
     background-size: cover;
     background-position: center;
 
